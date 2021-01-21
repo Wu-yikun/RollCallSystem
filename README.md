@@ -2,17 +2,17 @@
 
 ##  index.html
 
-![首页通知书](C:\Users\57715\AppData\Roaming\Typora\typora-user-images\image-20210103154730470.png)
+![首页通知书](.\images\md-image\index_html.png)
 
 
 
 ## home_page.html
 
-![点名系统页面](C:\Users\57715\AppData\Roaming\Typora\typora-user-images\QQ截图20210103161715.png)
+![点名系统页面](.\images\md-image\home_page_html.png)
 
 
 
 ## standard.xlsx
 
-![excel文件格式](C:\Users\57715\AppData\Roaming\Typora\typora-user-images\image-20210103162235420.png)
+![excel文件格式](.\images\md-image\standard_xlsx.png)
 
